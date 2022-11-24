@@ -1,0 +1,41 @@
+.container
+{
+    margin: 50px auto;
+     width: 50px;
+    background-color: white;
+}
+
+.top
+{
+    margin: 50px auto;
+     width: 550px;
+}
+
+.form
+{
+    
+    margin: 50px auto;
+     width: 550px;
+}
+
+.form-group input
+{
+    text-align: center;
+    display: block;
+    width: 500px;
+    padding: 1px;
+    border: 2px solid black;
+    font-size: 25px;
+}
+
+.btn
+{
+    border: 2px solid gray;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 4px 14px;
+    display: block;
+    width: 30%;
+    margin: 1px 220px;    
+}

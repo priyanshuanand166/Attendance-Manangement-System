@@ -1,0 +1,55 @@
+body
+{
+    background: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+img{
+    width: 25%;
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+
+.mid
+{
+    display: inline-block;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    font-size: 50px;
+    color: white;
+    font-weight: 500;
+}
+
+.m1
+{
+    display: inline-block;
+    position: absolute;
+    font-size: 30px;
+    top: 480px;
+    left: 650px;
+}
+
+.bottom
+{
+    display: inline-block;
+    position: absolute;
+    top: 550px;
+    left: 750px;
+}
+
+.btn
+{
+    margin: 0px 9px;
+    background-color: green;
+    color: white;
+    padding: 4px 14px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
